@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy Policy for SARKARI YOJNA &amp; CSC app
+Privacy Policy for APS Cyber Tools & Yojna
